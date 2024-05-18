@@ -1,0 +1,1 @@
+# ISM-3232--Assignments This project is a customized tip calculator for the user to easily generate the appropriate tip amount that should be given during a payment. 
